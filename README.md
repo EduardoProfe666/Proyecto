@@ -2,6 +2,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
+> [!NOTE]
+> En la carpeta **/src** se encuentra el código del proyecto.
+> En la carpeta **/executable** se encuentran los archivos ejecutables.
+> En la carpeta **/docs** se encuentra la documentación del proyecto.
+
 Proyecto de DPOO en Java | Java Swing sobre un sistema de para la administración de un Consultorio
 Médico de la Familia.
 
