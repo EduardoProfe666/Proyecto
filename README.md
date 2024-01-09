@@ -3,7 +3,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 > [!NOTE]
-> En la carpeta **/src** se encuentra el código del proyecto.
+> En la carpeta **/code** se encuentra el código del proyecto.
 > En la carpeta **/executable** se encuentran los archivos ejecutables.
 > En la carpeta **/docs** se encuentra la documentación del proyecto.
 
