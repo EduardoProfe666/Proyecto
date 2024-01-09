@@ -23,6 +23,38 @@ Hecho por Eva Ercilia Vázquez García y Eduardo Alejandro González Martell.
 
 ## 📸 Documentación general de la interfaz
 
+### Pantalla de Carga
+> ![splash](assets/splash.gif)
+
+### Autenticación
+> [!TIP]
+> Los usuarios válidos son:
+> - **Médico:**
+>   - `usuario`: medico
+>   - `contraseña`: 1234
+> - **Enfermera**
+>   - `usuario`: medico
+>   - `contraseña`: 1234
+> 
+> ![login](assets/login.png)
+
+### Interfaz de Médico
+> ![medico](assets/medico.png)
+
+### Interfaz de Enfermera
+> ![enfermera](assets/enfermera.png)
+
+
+### Buscador de Pacientes
+> ![pacientes](assets/buscador.png)
+
+
+### Información de Paciente
+> ![info](assets/info.png)
+
+### Selección de Reportes
+> ![reportes](assets/reportes.png)
+
 ## 👾 Importación del proyecto
 > [!IMPORTANT]
 > Para importar correctamente el proyecto, debe tener como pre-requisito Java ~= 1.8
