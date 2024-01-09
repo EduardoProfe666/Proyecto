@@ -19,7 +19,7 @@ Hecho por Eva Ercilia Vázquez García y Eduardo Alejandro González Martell.
 - Buscador en tiempo real por varios parámetros
 - Interfaz intuitiva
 - Dashboard_UI🎩 v1.0
-- Se usó `install4j` para ejecutar un archivo binario ejecutable `.exe`
+- Se usó `launch4j` para crear un archivo binario ejecutable `.exe`
 
 ## 📸 Documentación general de la interfaz
 
